@@ -1,0 +1,6 @@
+{
+    "terminal.explorerKind": "external",
+    "terminal.sourceControlRepositoriesKind": "integrated",
+    "terminal.integrated.customGlyphs": true,
+    "terminal.integrated.fontFamily": "MesloLGS NF"
+}
